@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StopWatchApp</string>
+    <string name="time_waits_for_no_one">Time waits for no one</string>
+</resources>
